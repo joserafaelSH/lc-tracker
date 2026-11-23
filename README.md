@@ -2,11 +2,11 @@
 
 My LeetCode journey, pattern by pattern: Python solutions, complexity analysis and NeetCode explanations.
 
-![Solved](https://img.shields.io/badge/solved-0-blue) ![Pattern](https://img.shields.io/badge/pattern-none-lightgrey) ![Streak](https://img.shields.io/badge/streak-0%20days-lightgrey)
+![Solved](https://img.shields.io/badge/solved-0-blue) ![Pattern](https://img.shields.io/badge/pattern-graphs-yellow) ![Streak](https://img.shields.io/badge/streak-0%20days-lightgrey)
 
 ## Current cycle
-- Pattern: none yet
-- Day: -
+- Pattern: `graphs` (Graphs DFS/BFS)
+- Day: 0/5 (study day)
 - Exercises today: 0
 - Gate: open (first cycle)
 
@@ -33,7 +33,7 @@ My LeetCode journey, pattern by pattern: Python solutions, complexity analysis a
 | 13 | Tries | `tries` | not started | 0 | - |
 | 14 | Heap / Priority Queue | `heap` | not started | 0 | - |
 | 15 | Backtracking | `backtracking` | not started | 0 | - |
-| 16 | Graphs (DFS/BFS) | `graphs` | not started | 0 | - |
+| 16 | Graphs (DFS/BFS) | `graphs` | in progress | 0 | [patterns/16-graphs](./patterns/16-graphs) |
 | 17 | Topological Sort | `topological-sort` | not started | 0 | - |
 | 18 | Union-Find (DSU) | `union-find` | not started | 0 | - |
 | 19 | Advanced Graphs | `advanced-graphs` | not started | 0 | - |

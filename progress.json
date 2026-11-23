@@ -1,6 +1,14 @@
 {
   "timezone": "America/Sao_Paulo",
-  "current_pattern": null,
-  "cycles": [],
+  "current_pattern": "graphs",
+  "cycles": [
+    {
+      "pattern": "graphs",
+      "started": "2026-11-23",
+      "completed": null,
+      "study_set": [695, 200, 133, 994, 417],
+      "override": null
+    }
+  ],
   "exercises": []
 }
